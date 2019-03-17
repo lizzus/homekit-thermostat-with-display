@@ -1,4 +1,4 @@
-# homekit_wifi_thermostat
+# homekit-thermostat-with-display
 
 A thermostat accessory for remotely controlling central heating.
 This provides a thermostat accessory, You also need a swith accessory and to set up event trigers in the Eve app to make the 
