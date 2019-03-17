@@ -20,8 +20,8 @@
  *
  */
 
-#define DEVICE_MANUFACTURER "David B Brown"
-#define DEVICE_NAME "Wifi-Thermostat"
+#define DEVICE_MANUFACTURER "Lizzus"
+#define DEVICE_NAME "Thermostat-with-display"
 #define DEVICE_MODEL "Basic"
 #define DEVICE_SERIAL "12345678"
 #define FW_VERSION "1.0"
@@ -42,7 +42,6 @@
 
 #include <homekit/homekit.h>
 #include <homekit/characteristics.h>
-//#include "wifi.h"
 
 #include <dht/dht.h>
 
